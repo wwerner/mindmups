@@ -1,0 +1,438 @@
+{
+  "title": "OMN Classifiation",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Use Cases",
+      "id": 2,
+      "ideas": {
+        "6": {
+          "title": "delete",
+          "id": 55,
+          "ideas": {
+            "1": {
+              "title": "attribute",
+              "id": 56
+            },
+            "2": {
+              "title": "feature",
+              "id": 57
+            },
+            "3": {
+              "title": "node",
+              "id": 58
+            },
+            "4": {
+              "title": "structure",
+              "id": 59
+            },
+            "5": {
+              "title": "subtree",
+              "id": 70
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "7": {
+          "title": "create",
+          "id": 60,
+          "ideas": {
+            "1": {
+              "title": "structure",
+              "id": 61
+            },
+            "2": {
+              "title": "node",
+              "id": 63
+            },
+            "3": {
+              "title": "feature",
+              "id": 64
+            },
+            "4": {
+              "title": "attribute",
+              "id": 65
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "8": {
+          "title": "move",
+          "id": 66,
+          "ideas": {
+            "1": {
+              "title": "node within a level",
+              "id": 67
+            },
+            "2": {
+              "title": "node between subtrees",
+              "id": 68
+            },
+            "3": {
+              "title": "subtrees",
+              "id": 69
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "9": {
+          "title": "map",
+          "id": 71,
+          "ideas": {
+            "1": {
+              "title": "product to node",
+              "id": 73
+            },
+            "2": {
+              "title": "feature to attribute",
+              "id": 74
+            },
+            "3": {
+              "title": "feature to feature",
+              "id": 75
+            },
+            "4": {
+              "title": "feature value to feature value",
+              "id": 76
+            },
+            "5": {
+              "title": "attribute value to feature value",
+              "id": 77
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "10": {
+          "title": "import",
+          "id": 78,
+          "ideas": {
+            "1": {
+              "title": "structure",
+              "id": 79
+            },
+            "2": {
+              "title": "subtree",
+              "id": 80
+            },
+            "3": {
+              "title": "attributes",
+              "id": 81
+            },
+            "4": {
+              "title": "features",
+              "id": 82
+            },
+            "5": {
+              "title": "classification system",
+              "id": 86
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "11": {
+          "title": "export",
+          "id": 83,
+          "ideas": {
+            "1": {
+              "title": "classification system",
+              "id": 84
+            },
+            "2": {
+              "title": "subtree",
+              "id": 85
+            },
+            "3": {
+              "title": "attributes",
+              "id": 87
+            },
+            "4": {
+              "title": "features",
+              "id": 88
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "12": {
+          "title": "inheritance",
+          "id": 89,
+          "ideas": {
+            "1": {
+              "title": "feature to sub node feature",
+              "id": 90
+            },
+            "2": {
+              "title": "feature to attribute",
+              "id": 91
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            },
+            "collapsed": true
+          }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "2": {
+      "title": "Standard Classification Systems",
+      "id": 11,
+      "ideas": {
+        "1": {
+          "title": "unspsc",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "nodes",
+              "id": 40
+            },
+            "2": {
+              "title": "features",
+              "id": 41
+            },
+            "3": {
+              "title": "levels",
+              "id": 42
+            },
+            "4": {
+              "title": "siblings",
+              "id": 43
+            }
+          }
+        },
+        "3": {
+          "title": "etim",
+          "id": 14
+        },
+        "4": {
+          "title": "eCl@ss",
+          "id": 15
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "3": {
+      "title": "domain model",
+      "id": 24,
+      "ideas": {
+        "1": {
+          "title": "structure",
+          "id": 26
+        },
+        "2": {
+          "title": "node",
+          "id": 27
+        },
+        "3": {
+          "title": "feature",
+          "id": 28,
+          "ideas": {
+            "1": {
+              "title": "feature value",
+              "id": 32
+            }
+          }
+        },
+        "4": {
+          "title": "attribute",
+          "id": 29
+        },
+        "5": {
+          "title": "attribute value",
+          "id": 30,
+          "ideas": {
+            "1": {
+              "title": "lists",
+              "id": 31
+            }
+          }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "4": {
+      "title": "architecture",
+      "id": 93,
+      "ideas": {
+        "1": {
+          "title": "HTTP API",
+          "id": 94
+        },
+        "2": {
+          "title": "which parts in DB, which parts in application layer, which parts in the ui",
+          "id": 95
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-1": {
+      "title": "Trees in Relational Databasees",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Closure Table",
+          "id": 6
+        },
+        "2": {
+          "title": "Nested Set",
+          "id": 7
+        },
+        "3": {
+          "title": "Naive Approach",
+          "id": 8
+        },
+        "4": {
+          "title": "Joe Celko - Trees and Hierarchies in SQL (http://books.google.de/books?id=8NdQY8TuEDUC&printsec=frontcover&dq=isbn:9780123877338&hl=en&sa=X&ei=NrvZUbb3GaX44QS2loDABw&redir_esc=y#v=onepage&q&f=false)",
+          "id": 9
+        },
+        "5": {
+          "title": "Bill Karwin - SQL Antipatterns",
+          "id": 96
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-2": {
+      "title": "Pain Points",
+      "id": 18,
+      "ideas": {
+        "1": {
+          "title": "Classification System Versions",
+          "id": 19
+        },
+        "2": {
+          "title": "Custom Classification Systems",
+          "id": 20
+        },
+        "3": {
+          "title": "order&concurrent access",
+          "id": 21
+        },
+        "4": {
+          "title": "load times",
+          "id": 22
+        },
+        "5": {
+          "title": "consistency",
+          "id": 23
+        },
+        "6": {
+          "title": "performance",
+          "id": 33,
+          "ideas": {
+            "1": {
+              "title": "import&export",
+              "id": 34
+            }
+          }
+        },
+        "7": {
+          "title": "mapping attributes to features",
+          "id": 36
+        },
+        "8": {
+          "title": "inheritance",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "real inheritance?",
+              "id": 38
+            },
+            "2": {
+              "title": "copy attributes?",
+              "id": 39
+            }
+          }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-3": {
+      "title": "Testing",
+      "id": 44,
+      "ideas": {
+        "1": {
+          "title": "load tests early",
+          "id": 45
+        },
+        "2": {
+          "title": "stress tests for ensuring consistency",
+          "id": 46
+        },
+        "3": {
+          "title": "test the API, so you can automate tests easily and decouple the backend&frontend logic",
+          "id": 49
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    }
+  },
+  "links": []
+}
