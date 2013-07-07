@@ -322,11 +322,11 @@
       "id": 3,
       "ideas": {
         "1": {
-          "title": "Closure Table",
+          "title": "Closure Table http://karwin.blogspot.de/2010/03/rendering-trees-with-closure-tables.html",
           "id": 6
         },
         "2": {
-          "title": "Nested Set",
+          "title": "Nested Set http://en.wikipedia.org/wiki/Nested_set_model",
           "id": 7
         },
         "3": {
@@ -338,15 +338,15 @@
           "id": 9
         },
         "5": {
-          "title": "Bill Karwin - SQL Antipatterns",
+          "title": "Bill Karwin - SQL Antipatterns http://pragprog.com/book/bksqla/sql-antipatterns",
           "id": 96
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     },
     "-2": {
