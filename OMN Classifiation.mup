@@ -235,6 +235,12 @@
               "title": "siblings",
               "id": 43
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
         },
         "3": {
@@ -247,7 +253,6 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
         }
@@ -403,10 +408,10 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     },
     "-3": {
@@ -430,6 +435,28 @@
         "collapsed": true,
         "style": {
           "background": "#E0E0E0"
+        }
+      }
+    },
+    "-4": {
+      "title": "Notes",
+      "id": 97,
+      "ideas": {
+        "1": {
+          "title": "canonical data mode",
+          "id": 98
+        },
+        "2": {
+          "title": "canonical processes",
+          "id": 99
+        },
+        "3": {
+          "title": "automated acceptance tests",
+          "id": 100
+        },
+        "4": {
+          "title": "automated performance tests",
+          "id": 101
         }
       }
     }
