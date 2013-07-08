@@ -12,11 +12,11 @@
           "id": 55,
           "ideas": {
             "1": {
-              "title": "attribute",
+              "title": "attribute definition",
               "id": 56
             },
             "2": {
-              "title": "feature",
+              "title": "attribute value",
               "id": 57
             },
             "3": {
@@ -33,7 +33,6 @@
             }
           },
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
             }
@@ -61,10 +60,10 @@
             }
           },
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           }
         },
         "8": {
@@ -85,26 +84,53 @@
             }
           },
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
             }
           }
         },
         "9": {
-          "title": "map",
+          "title": "assignment",
           "id": 71,
           "ideas": {
             "1": {
-              "title": "product to node",
-              "id": 73
+              "title": "<stuff> to node",
+              "id": 73,
+              "ideas": {
+                "1": {
+                  "title": "product",
+                  "id": 106
+                },
+                "2": {
+                  "title": "item",
+                  "id": 107
+                },
+                "3": {
+                  "title": "variation",
+                  "id": 108
+                },
+                "4": {
+                  "title": "do you want to be able to assign all objects to nodes?",
+                  "id": 109
+                },
+                "5": {
+                  "title": "leaf vs. non-leaf nodes",
+                  "id": 110
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
             },
             "2": {
-              "title": "feature to attribute",
+              "title": "attribute value to attribute definition",
               "id": 74
             },
             "3": {
-              "title": "feature to feature",
+              "title": "attribute definition to attribute definition in different classification systems",
               "id": 75
             },
             "4": {
@@ -117,7 +143,6 @@
             }
           },
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
             }
@@ -202,13 +227,35 @@
             },
             "collapsed": true
           }
+        },
+        "13": {
+          "title": "attribute",
+          "id": 111,
+          "ideas": {
+            "1": {
+              "title": "data types",
+              "id": 112
+            },
+            "2": {
+              "title": "conversions",
+              "id": 113
+            },
+            "3": {
+              "title": "mapping",
+              "id": 114
+            },
+            "4": {
+              "title": "inheritance",
+              "id": 115
+            }
+          }
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     },
     "2": {
@@ -237,10 +284,10 @@
             }
           },
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           }
         },
         "3": {
@@ -255,7 +302,8 @@
       "attr": {
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     },
     "3": {
@@ -457,6 +505,15 @@
         "4": {
           "title": "automated performance tests",
           "id": 101
+        },
+        "5": {
+          "title": "toolbox",
+          "id": 102,
+          "ideas": {}
+        },
+        "6": {
+          "title": "migration  plan",
+          "id": 104
         }
       }
     }
