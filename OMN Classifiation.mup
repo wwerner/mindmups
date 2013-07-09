@@ -35,7 +35,8 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           }
         },
         "7": {
@@ -86,7 +87,8 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           }
         },
         "9": {
@@ -145,7 +147,8 @@
           "attr": {
             "style": {
               "background": "#E0E0E0"
-            }
+            },
+            "collapsed": true
           }
         },
         "10": {
@@ -248,6 +251,12 @@
               "title": "inheritance",
               "id": 115
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
         }
       },
@@ -346,7 +355,8 @@
       "attr": {
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     },
     "4": {
@@ -363,10 +373,10 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
-        }
+        },
+        "collapsed": true
       }
     },
     "5": {
@@ -409,7 +419,8 @@
               "attr": {
                 "style": {
                   "background": "#E0E0E0"
-                }
+                },
+                "collapsed": true
               }
             },
             "2": {
@@ -436,6 +447,12 @@
                   "title": "standard PIM processes ",
                   "id": 132
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
             },
             "4": {
@@ -455,6 +472,12 @@
                       "id": 151
                     }
                   }
+                }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
                 }
               }
             },
@@ -476,7 +499,7 @@
                   "id": 142
                 },
                 "3": {
-                  "title": "quanitity structures",
+                  "title": "data dimenions",
                   "id": 144
                 },
                 "4": {
@@ -497,11 +520,16 @@
                     }
                   }
                 }
+              },
+              "attr": {
+                "collapsed": true,
+                "style": {
+                  "background": "#E0E0E0"
+                }
               }
             }
           },
           "attr": {
-            "collapsed": true,
             "style": {
               "background": "#E0E0E0"
             }
@@ -546,7 +574,19 @@
                 }
               }
             }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
           }
+        }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {
+          "background": "#E0E0E0"
         }
       }
     },
@@ -578,8 +618,7 @@
       "attr": {
         "style": {
           "background": "#E0E0E0"
-        },
-        "collapsed": true
+        }
       }
     },
     "-2": {
@@ -660,46 +699,10 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
-        }
-      }
-    },
-    "-4": {
-      "title": "Notes",
-      "id": 97,
-      "ideas": {
-        "1": {
-          "title": "canonical data mode",
-          "id": 98
         },
-        "2": {
-          "title": "canonical processes",
-          "id": 99
-        },
-        "3": {
-          "title": "automated acceptance tests",
-          "id": 100
-        },
-        "4": {
-          "title": "automated performance tests",
-          "id": 101
-        },
-        "5": {
-          "title": "toolbox",
-          "id": 102,
-          "ideas": {}
-        },
-        "6": {
-          "title": "migration  plan",
-          "id": 104
-        }
-      },
-      "attr": {
-        "style": {
-          "background": "#E0E0E0"
-        }
+        "collapsed": true
       }
     }
   },
