@@ -344,7 +344,6 @@
         }
       },
       "attr": {
-        "collapsed": true,
         "style": {
           "background": "#E0E0E0"
         }
@@ -367,6 +366,187 @@
         "collapsed": true,
         "style": {
           "background": "#E0E0E0"
+        }
+      }
+    },
+    "5": {
+      "title": "Plan for day 2",
+      "id": 116,
+      "ideas": {
+        "1": {
+          "title": "next steps",
+          "id": 117,
+          "ideas": {
+            "1": {
+              "title": "Write Performance Tests for current solution",
+              "id": 119,
+              "ideas": {
+                "1": {
+                  "title": "Server Backend",
+                  "id": 120
+                },
+                "2": {
+                  "title": "Network",
+                  "id": 121
+                },
+                "3": {
+                  "title": "Rendering/UI",
+                  "id": 122
+                },
+                "4": {
+                  "title": "Database",
+                  "id": 123
+                },
+                "5": {
+                  "title": "Goal: To have a performance test suite that is also deployable on customer infrastructure",
+                  "id": 124
+                },
+                "4.5": {
+                  "title": "Goal: exactly pinpoint bottlenecks",
+                  "id": 155
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "2": {
+              "title": "investigate a model driven approach for data modelling",
+              "id": 127
+            },
+            "3": {
+              "title": "further possible improvements",
+              "id": 126,
+              "ideas": {
+                "1": {
+                  "title": "create a \"default\" data model to start projects from",
+                  "id": 125
+                },
+                "2": {
+                  "title": "automated acceptance tests",
+                  "id": 128
+                },
+                "3": {
+                  "title": "software development infrastructure",
+                  "id": 131
+                },
+                "4": {
+                  "title": "standard PIM processes ",
+                  "id": 132
+                }
+              }
+            },
+            "4": {
+              "title": "measure/prototype",
+              "id": 133
+            },
+            "5": {
+              "title": "low hanging fruits",
+              "id": 149,
+              "ideas": {
+                "1": {
+                  "title": "loading articles",
+                  "id": 150,
+                  "ideas": {
+                    "1": {
+                      "title": "select which columns to display w/ incremental loading",
+                      "id": 151
+                    }
+                  }
+                }
+              }
+            },
+            "6": {
+              "title": "find current bottlenecks",
+              "id": 153,
+              "ideas": {}
+            },
+            "2.5": {
+              "title": "needed from the müller project",
+              "id": 140,
+              "ideas": {
+                "1": {
+                  "title": "use cases",
+                  "id": 141
+                },
+                "2": {
+                  "title": "testdata",
+                  "id": 142
+                },
+                "3": {
+                  "title": "quanitity structures",
+                  "id": 144
+                },
+                "4": {
+                  "title": "goals",
+                  "id": 145,
+                  "ideas": {
+                    "1": {
+                      "title": "load <n> Articles in <m> seconds",
+                      "id": 146
+                    },
+                    "2": {
+                      "title": "load tree w/ <m> nodes in <n> seconds",
+                      "id": 147
+                    },
+                    "3": {
+                      "title": "load all <n> articles attached to a node",
+                      "id": 148
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "collapsed": true,
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "GUI for product classification",
+          "id": 129
+        },
+        "3": {
+          "title": "GUI for classification administration",
+          "id": 130
+        },
+        "4": {
+          "title": "migration plan",
+          "id": 134,
+          "ideas": {
+            "1": {
+              "title": "changes in the existing solution have side effects - small changes may consume a lot of effort",
+              "id": 135,
+              "ideas": {}
+            },
+            "2": {
+              "title": "add classification as an addition to the current system w/ new persistence approach",
+              "id": 137
+            },
+            "3": {
+              "title": "move parts of the existing system afterwards",
+              "id": 138
+            },
+            "4": {
+              "title": "encapsulation of parts to replace",
+              "id": 139
+            },
+            "5": {
+              "title": "RISK: multiple architectural  approaches for a transition phase",
+              "id": 157,
+              "ideas": {
+                "1": {
+                  "title": "you do not want to get stuck in that phase",
+                  "id": 158
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -514,6 +694,11 @@
         "6": {
           "title": "migration  plan",
           "id": 104
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
         }
       }
     }
